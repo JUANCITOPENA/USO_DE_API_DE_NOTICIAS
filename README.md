@@ -7,6 +7,7 @@ La aplicación utiliza una combinación de HTML, CSS y JavaScript para crear una
 
 Este proyecto es una excelente manera de aprender cómo utilizar APIs en aplicaciones web y cómo crear una interfaz de usuario atractiva y responsiva utilizando HTML, CSS y JavaScript. También es una herramienta útil para mantenerse actualizado con las últimas noticias de los Estados Unidos en tiempo real.
 
+URL DE LA API: https://newsapi.org/
 
 ## IMAGENES DEL PROYECTO
 ![](NEWAPI3.png)
