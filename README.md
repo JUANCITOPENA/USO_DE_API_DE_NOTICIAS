@@ -15,5 +15,5 @@ Este proyecto es una excelente manera de aprender cómo utilizar APIs en aplicac
 ![](NEWSAPI2.png)
 
 ## IMAGENES DEL PROYECTO
-![](NEWAPI1.png)
+![](NEWSAPI1.png)
 
