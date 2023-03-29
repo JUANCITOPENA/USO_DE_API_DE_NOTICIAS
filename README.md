@@ -9,4 +9,10 @@ Este proyecto es una excelente manera de aprender cómo utilizar APIs en aplicac
 
 
 ## IMAGENES DEL PROYECTO
-!()[]
+!()[NEWAPI3.png]
+
+## IMAGENES DEL PROYECTO
+!()[NEWAPI2.png]
+
+## IMAGENES DEL PROYECTO
+!()[NEWAPI1.png]
