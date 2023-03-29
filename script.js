@@ -1,4 +1,4 @@
-const apiKey = 'TU API KEY AQUI';
+const apiKey = 'bbdc901c176b4de5bdc05c6de697c010';
 const url = `https://newsapi.org/v2/top-headlines?country=us&apiKey=${apiKey}`;
 
 const noticiasPorPagina = 10;
